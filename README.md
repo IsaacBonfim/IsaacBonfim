@@ -1,19 +1,20 @@
-Hi 👋 My name is Isaac Oliveira
+Olá 👋 Meu nome é Isaac Pinto Bonfim de Oliveira
 ===============================
 
-Dev Front End Jr
+Sou Dev Front End Jr
 ----------------
 
-I started to learn more about web development and fell in love with the Front End area, especially the CSS styling part.
+Eu comecei a estudar mais sobre a área de desenvolvimento web e após realizar um curso de desenvolvimento Full Stack na [Trybe](https://www.betrybe.com/), me apaixonei pela área de Front End, principalmente na parte de estilização com css e suas frameworks.
 
-* 🌍  I'm based in Betim - MG, Brazil
-* ✉️  You can contact me at [isaac.net.olivera@hotmail.com](mailto:isaac.net.olivera@hotmail.com)
-* 🧠  I'm learning Vue and Tailwind
-* ⚡  I love tabletop RPGs, I play on several systems and I dream of creating something for one of them someday, especially if it's a Brazilian system like Tormenta.
+* 🌍  Eu estou morando em Betim - MG, Brasil.
+* ✉️   Você pode me contactar pelo meu email - [isaac.net.olivera@hotmail.com](mailto:isaac.net.olivera@hotmail.com).
+* 🧠  Atualmente estou estudando sobre Vue and Tailwind.
+* ⚡   Eu amo jogar RPG de mesa, já joguei em diversos sistemas e sonho um dia conseguir desenvolver alguma projeto para um deles, pricipalmente se for para algum sistema nacional como o [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/) da [Jambô Editora](https://jamboeditora.com.br/).
+
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Estatus do meu GitHub</b>
 
 <div align="center">
   <a href="https://github.com/IsaacBonfim" />
@@ -24,7 +25,7 @@ I started to learn more about web development and fell in love with the Front En
 
 <br />
 
-<b>Top Repositories</b>
+<b>Top Repositórios</b>
 
 <div width="100%" align="center"><a href="https://github.com/IsaacBonfim/19-projeto-app-de-receitas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=19-projeto-app-de-receitas&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/IsaacBonfim/14-projeto-trybetunes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=14-projeto-trybetunes&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
@@ -52,7 +53,7 @@ I started to learn more about web development and fell in love with the Front En
 </p>
 
 
-### Socials
+### Redes Sociais
 
-<p align="left"> <a href="https://www.github.com/IsaacBonfim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/isaacpboliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/isaac.oliveira.182" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/IsaacBonfim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/isaac.oliveira.182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/isaacpboliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IsaacOl55287815" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
