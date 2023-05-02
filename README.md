@@ -6,7 +6,7 @@ Dev Front End Jr
 
 I started to learn more about web development and fell in love with the Front End area, especially the CSS styling part.
 
-* 🌍  I'm based in Betim - MG, Brasil
+* 🌍  I'm based in Betim - MG, Brazil
 * ✉️  You can contact me at [isaac.net.olivera@hotmail.com](mailto:isaac.net.olivera@hotmail.com)
 * 🧠  I'm learning Vue and Tailwind
 * ⚡  I love tabletop RPGs, I play on several systems and I dream of creating something for one of them someday, especially if it's a Brazilian system like Tormenta.
