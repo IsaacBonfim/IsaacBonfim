@@ -11,8 +11,30 @@ I started to learn more about web development and fell in love with the Front En
 * 🧠  I'm learning Vue and Tailwind
 * ⚡  I love tabletop RPGs, I play on several systems and I dream of creating something for one of them someday, especially if it's a Brazilian system like Tormenta.
 
-### Skills
+### Badges
 
+<b>My GitHub Stats</b>
+
+<div align="center">
+  <a href="https://github.com/IsaacBonfim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsaacBonfim's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacBonfim&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBonfim&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/IsaacBonfim/19-projeto-app-de-receitas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=19-projeto-app-de-receitas&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/IsaacBonfim/14-projeto-trybetunes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=14-projeto-trybetunes&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/IsaacBonfim/13-projeto-tryunfo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=13-projeto-tryunfo&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/IsaacBonfim/17-projeto-trivia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=17-projeto-trivia&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+
+### Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -31,21 +53,7 @@ I started to learn more about web development and fell in love with the Front En
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/IsaacBonfim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/isaacpboliveira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IsaacBonfim"><img src="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IsaacBonfim's GitHub stats" /></a>
-
-<a href="http://www.github.com/IsaacBonfim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacBonfim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/IsaacBonfim" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBonfim&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/IsaacBonfim/19-projeto-app-de-receitas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacBonfim&repo=19-projeto-app-de-receitas&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
