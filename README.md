@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Isaac Pinto Bonfim de Oliveira
+Olá 👋 eu sou Isaac Oliveira
 ===============================
 
 Sou Dev Front End Jr
