@@ -18,20 +18,9 @@ Eu comecei a estudar mais sobre a área de desenvolvimento web e após realizar 
 <b>Estatus do meu GitHub</b>
 
 <div align="center">
-  <a href="https://github.com/IsaacBonfim" />
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&bg_color=DEG,1B294Bff,0F172Aff&title_color=10B981ff&text_color=FFFFFFff&icon_color=3382edff&hide_border=true&border_radius=3&locale=pt-br)](https://github.com/IsaacBonfim/github-readme-stats"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&bg_color=DEG,1B294Bff,0F172Aff&title_color=10B981ff&text_color=FFFFFFff&icon_color=3382edff&hide_border=true&border_radius=3&locale=pt-br)](https://github.com/IsaacBonfim/github-readme-stats"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="IsaacBonfim's GitHub stats" />
-  </picture>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBonfim&layout=compact&langs_count=7&theme=tokyonight" />
+  <a href="https://github.com/IsaacBonfim" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacBonfim&show_icons=true&bg_color=DEG,1B294Bff,0F172Aff&title_color=10B981ff&text_color=FFFFFFff&icon_color=3382edff&hide_border=true&border_radius=3&locale=pt-br" alt="IsaacBonfim's GitHub stats" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBonfim&layout=compact&langs_count=5&bg_color=DEG,0F172Aff,1B294Bff&title_color=10B981ff&text_color=FFFFFFff&icon_color=3382edff&hide_border=true&border_radius=3&locale=pt-br" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacBonfim&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
