@@ -23,6 +23,7 @@ Eu comecei a estudar mais sobre a área de desenvolvimento web e após realizar 
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacBonfim&layout=compact&langs_count=5&bg_color=DEG,0F172Aff,1B294Bff&title_color=10B981ff&text_color=FFFFFFff&icon_color=3382edff&hide_border=true&border_radius=3&locale=pt-br" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacBonfim&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
   <img src="https://streak-stats.demolab.com?user=IsaacBonfim&hide_border=true&border_radius=3&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0%2C0F172A%2C1B294B&ring=10B981&fire=10B981&stroke=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3382ED&sideLabels=3382ED&dates=FFFFFF" />
+  <img height="250em" src="https://github-readme-activity-graph.cyclic.app/graph?username=IsaacBonfim&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" alt="Top Languages" />
 </div>
 
 <br />
