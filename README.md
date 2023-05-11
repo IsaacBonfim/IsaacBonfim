@@ -10,7 +10,7 @@ Eu comecei a estudar mais sobre a área de desenvolvimento web e após realizar 
 * 🌍 &ensp;Eu estou morando em Betim - MG, Brasil.
 * ✉️  &ensp;Você pode me contactar pelo meu email - [isaac.net.olivera@hotmail.com](mailto:isaac.net.olivera@hotmail.com).
 * 🧠 &ensp;Atualmente estou estudando sobre Vue and Tailwind.
-* ⚡  &ensp;Eu amo jogar RPG de mesa, já joguei em diversos sistemas e sonho um dia conseguir desenvolver alguma projeto para um deles, pricipalmente se for para algum sistema nacional como o [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/) da [Jambô Editora](https://jamboeditora.com.br/).
+* ⚡  &ensp;Eu amo jogar RPG de mesa, já joguei em diversos sistemas e sonho um dia conseguir participar de algum projeto para um deles, pricipalmente se for para algum sistema nacional como o [Tormenta 20](https://site.jamboeditora.com.br/tormenta20/) da [Jambô Editora](https://jamboeditora.com.br/).
 
 
 ### Badges
